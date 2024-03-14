@@ -1,0 +1,17 @@
+date = "2024-02-03"
+
+[result]
+winner = "GOOD"
+
+[players]
+Chase = "Ravenskeeper"
+Gabby = "Imp"
+Matt = "Mayor"
+Josh = "Poisoner"
+Alex_L = "Monk"
+Kathy = "Washerwoman"
+Ben = "Recluse"
+Kylie = "Slayer"
+
+[notes]
+entries = ["Slayer shot Imp on day 2"]

@@ -1,0 +1,22 @@
+date = "2024-02-03"
+
+[result]
+winner = "EVIL"
+
+[players]
+Gabby = "Tinker"
+Chase = "Exorcist"
+Kylie = "Tea Lady"
+Alex_L = "Gambler"
+Matt = "Pacifist"
+Kathy = "Professor"
+Josh = "Po"
+Ben = "Devils_Advocate"
+
+[notes]
+entries = [
+  "Professor revived Exorcist",
+  "Exorcist hit demon",
+  "Devil's Advocate protected Demon",
+  "Tea Lady was sad..."
+]

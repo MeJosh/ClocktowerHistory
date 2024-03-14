@@ -1,0 +1,18 @@
+date = "2024-01-06"
+
+[result]
+winner = "GOOD"
+
+[players]
+Alex_M = "Saint"
+Josh = "Librarian"
+Ben = "Baron"
+Erik = "Fortune_Teller"
+Sara = "Recluse"
+Alex_N = "Drunk"
+Kylie = "Imp"
+Matt = "Butler"
+Gabby = "Investigator"
+
+[notes]
+entries = ["Drunk saw Empath"]
